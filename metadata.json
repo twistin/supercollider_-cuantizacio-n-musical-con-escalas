@@ -1,0 +1,5 @@
+{
+  "name": "SuperCollider: Cuantización Musical con Escalas",
+  "description": "Un módulo interactivo para aprender y estudiar la cuantización musical con escalas en SuperCollider, desde tonos aleatorios básicos hasta el uso de DegreeToKey.kr y SynthDefs dinámicos.",
+  "requestFramePermissions": []
+}
